@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_showing"
+        android:icon="@drawable/ic_tickets"
+        android:title="What's On" />
+
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/ic_round_account_button_with_user_inside"
+        android:title="My Account" />
+
+</menu>
