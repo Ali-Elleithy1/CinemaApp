@@ -2,20 +2,22 @@
 CinemaApp is an Online Ticket Booking Application.
 
 App Features :
-- Login , Signup
+- Login, Signup, Logout
 
-![1](https://user-images.githubusercontent.com/35397045/108284306-a5262500-718d-11eb-9873-26cbe9d89b71.PNG) ![2](https://user-images.githubusercontent.com/35397045/108284415-d868b400-718d-11eb-8425-34b80e961a71.PNG)
+![1](https://user-images.githubusercontent.com/35397045/108339896-a7fe3580-71e0-11eb-9e82-486d79e09e02.PNG) ![2](https://user-images.githubusercontent.com/35397045/108340259-0d522680-71e1-11eb-8183-91204d3c766a.PNG) ![10](https://user-images.githubusercontent.com/35397045/108341368-42ab4400-71e2-11eb-983d-12f2d8d7f149.PNG)
+
 - User can see all available movies and all available showtimes
 
-![3](https://user-images.githubusercontent.com/35397045/108284541-15cd4180-718e-11eb-82cd-2ea51111c99b.PNG) ![4](https://user-images.githubusercontent.com/35397045/108284592-339aa680-718e-11eb-98d2-d1d736920d8e.PNG)
+![3](https://user-images.githubusercontent.com/35397045/108340390-35418a00-71e1-11eb-9c25-1da97e1e4140.PNG) ![4](https://user-images.githubusercontent.com/35397045/108340582-68841900-71e1-11eb-9cc4-bc3c1027e45d.PNG)
+
 - User chooses the number of tickets
 
+![5](https://user-images.githubusercontent.com/35397045/108340750-9c5f3e80-71e1-11eb-8b5d-f306493fb5e7.PNG) ![6](https://user-images.githubusercontent.com/35397045/108340852-bac53a00-71e1-11eb-803f-77d693a3148d.PNG)
 
-![5](https://user-images.githubusercontent.com/35397045/108284647-4f9e4800-718e-11eb-968f-c8d5743ed8f5.PNG) ![6](https://user-images.githubusercontent.com/35397045/108284690-604ebe00-718e-11eb-836f-7239f9aacb79.PNG)
 - User picks the seats
 
-![7](https://user-images.githubusercontent.com/35397045/108284725-6f357080-718e-11eb-909b-2c3a67eb2455.PNG) ![8](https://user-images.githubusercontent.com/35397045/108284760-82484080-718e-11eb-9075-bc00f06da4d8.PNG)
+![7](https://user-images.githubusercontent.com/35397045/108340958-d6c8db80-71e1-11eb-9580-7e2ef0e8f63f.PNG) ![8](https://user-images.githubusercontent.com/35397045/108341074-f5c76d80-71e1-11eb-8f40-b75d729ca9ea.PNG)
+
 - history of tickets bought by this user
 
-
-![9](https://user-images.githubusercontent.com/35397045/108284791-912ef300-718e-11eb-8c4a-41c5f4332916.PNG)
+![9](https://user-images.githubusercontent.com/35397045/108341199-198ab380-71e2-11eb-825c-e3d55bbd5b40.PNG)
