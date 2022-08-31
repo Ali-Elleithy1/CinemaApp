@@ -5,6 +5,7 @@ App Features :
 - Login, Signup, Logout
 
 ![1](https://user-images.githubusercontent.com/35397045/108339896-a7fe3580-71e0-11eb-9e82-486d79e09e02.PNG) ![2](https://user-images.githubusercontent.com/35397045/108340259-0d522680-71e1-11eb-8183-91204d3c766a.PNG) ![10](https://user-images.githubusercontent.com/35397045/108341368-42ab4400-71e2-11eb-983d-12f2d8d7f149.PNG)
+<img src="https://user-images.githubusercontent.com/35397045/108339896-a7fe3580-71e0-11eb-9e82-486d79e09e02.PNG" width="200" height="400"> <img src="https://user-images.githubusercontent.com/35397045/108340259-0d522680-71e1-11eb-8183-91204d3c766a.PNG" width="200" height="400"> <img src="https://user-images.githubusercontent.com/35397045/108341368-42ab4400-71e2-11eb-983d-12f2d8d7f149.PNG" width="200" height="400">
 
 - User can see all available movies and all available showtimes
 
